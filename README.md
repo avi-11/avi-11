@@ -5,7 +5,7 @@
 
 <img src="https://miro.medium.com/v2/resize:fit:1400/1*a-HMmQFQNC76zCZBZfFgJg.gif" height=220 align=right>
 
-- 🌱 I’m currently learning **NodeJS**
+- 🌱 I’m currently learning **NextJS**
 
 - 💬 Ask me about **Javascript, react, UI/UX design.**
 
